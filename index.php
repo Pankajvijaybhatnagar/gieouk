@@ -8,8 +8,13 @@
 <?php require_once('parts/home3/slidingtext.php'); ?>
 <?php require_once('parts/home3/slidingtext2.php'); ?>
 <?php require_once('parts/home3/service2.php'); ?>
-<?php require_once('parts/home3/whychoose.php'); ?>
+<?php  
+// require_once('parts/home3/whychoose.php'); 
+?>
+<?php require_once('parts/home3/slidingtext.php'); ?>
+<?php require_once('parts/home3/slidingtext2.php'); ?>
 <?php require_once('parts/home3/process.php'); ?>
+
 <?php require_once('parts/home3/project.php'); ?>
 <?php require_once('parts/home3/circle.php'); ?>
 <?php require_once('parts/home3/counter.php'); ?>
