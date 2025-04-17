@@ -1,19 +1,15 @@
 <ul class="main-menu__list">
-	<li class="dropdown">
-		<a href="index.php">Home </a>
-		<ul>
-			<li><a href="index.php">Home One</a></li>
-			<li><a href="index2.php">Home Two</a></li>
-			<li><a href="index3.php">Home Three</a></li>
-			<li><a href="index4.php">Home Four</a></li>
-			<li><a href="index5.php">Home Five</a></li>
-			<li><a href="index-dark.php">Home Dark</a></li>
-		</ul>
+	
+	<li>
+		<a href="index.php">Home</a>
 	</li>
 	<li>
-		<a href="about.php">About Us</a>
+		<a href="index.php">About Us</a>
 	</li>
-	<li class="dropdown">
+	<li>
+		<a href="index.php">Join GIEO Gita</a>
+	</li>
+	<!-- <li class="dropdown">
 		<a href="#">Pages</a>
 		<ul>
 			<li><a href="team.php">Team</a></li>
@@ -37,19 +33,33 @@
 			</li>
 			<li><a href="horizon-guard-roofing.php">Horizon Guard Roofing</a></li>
 		</ul>
-	</li>
+	</li> -->
 	<li class="dropdown">
-		<a href="#">projects</a>
+		<a href="#">Seva</a>
 		<ul>
-			<li><a href="projects.php">Projects</a></li>
-			<li><a href="project-details.php">Project Details</a></li>
+			<li><a href="index.php">Projects</a></li>
+			<li><a href="index.php">Project Details</a></li>
 		</ul>
 	</li>
 	<li class="dropdown">
-		<a href="#">Blog</a>
+		<a href="#">Education</a>
 		<ul>
-			<li><a href="blog.php">Blog</a></li>
-			<li><a href="blog-details.php">Blog Details</a></li>
+			<li><a href="index.php">Projects</a></li>
+			<li><a href="index.php">Project Details</a></li>
+		</ul>
+	</li>
+	<li class="dropdown">
+		<a href="#">Events</a>
+		<ul>
+			<li><a href="index.php">Projects</a></li>
+			<li><a href="index.php">Project Details</a></li>
+		</ul>
+	</li>
+	<li class="dropdown">
+		<a href="#">Blogs</a>
+		<ul>
+			<li><a href="index.php">Blog</a></li>
+			<li><a href="index.php">Blog Details</a></li>
 		</ul>
 	</li>
 	<li>

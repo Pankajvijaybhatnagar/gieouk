@@ -286,7 +286,7 @@ require_once('parts/page-title.php');
                                             <div class="icon">
                                                 <span class="icon-envolop"></span>
                                             </div>
-                                            <a href="mailto:debra.holt@example.com">debra.holt@example.com</a>
+                                            <a href="mailto:info@gieogita.org.uk">info@gieogita.org.uk</a>
                                         </li>
                                         <li>
                                             <div class="icon">

@@ -46,7 +46,7 @@
                     <div class="container">
                         <div class="main-menu-three__wrapper-inner">
                             <div class="main-menu-three__logo">
-                                <a href="index.php"><img src="assets/images/resources/logo-2.png" alt=""></a>
+                                <a href="index.php"><img style="width: 90px;" src="assets/images/backgrounds/Logo.png" alt=""></a>
                             </div>
                             <div class="main-menu-three__left">
                                 <div class="main-menu-three__main-menu-box">
