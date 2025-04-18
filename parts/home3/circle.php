@@ -3,7 +3,7 @@
             <div class="container">
                 <div class="circle-text__inner">
                     <div class="circle-text__img"
-                        style="background-image: url(assets/images/resources/circle-text-img-1.jpg);"></div>
+                        style="background-image: url(assets/images/resources/circle-text-img-1.jpeg);"></div>
                     <div class="circle-text__rounded-text">
                         <a href="contact.php" class="circle-text__curved-circle-box">
                             <div class="curved-circle">

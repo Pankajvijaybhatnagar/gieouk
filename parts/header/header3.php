@@ -8,7 +8,7 @@
                                     <i class="icon-call"></i>
                                 </div>
                                 <div class="text">
-                                    <p><a href="tel:629555-0129">(629) 555-0129</a>
+                                    <p><a href="tel:629555-0129">1234567890</a>
                                     </p>
                                 </div>
                             </li>
@@ -17,7 +17,8 @@
                                     <i class="icon-envolop"></i>
                                 </div>
                                 <div class="text">
-                                    <p><a href="mailto:info@example.com">info@example.com</a>
+                                    <p><a href="mailto:info@example.com">
+                                    info@gieogita.org.uk</a>
                                     </p>
                                 </div>
                             </li>
@@ -26,7 +27,7 @@
                                     <i class="icon-location"></i>
                                 </div>
                                 <div class="text">
-                                    <p>6391 Elgin St.Housing, 10299</p>
+                                    <p>uk</p>
                                 </div>
                             </li>
                         </ul>
@@ -58,7 +59,7 @@
                                 <div class="main-menu-three__search-btn-box">
                                     <a href="#" class="main-menu-three__search search-toggler icon-search"></a>
                                     <div class="main-menu-three__btn-box">
-                                        <a href="contact.php" class="main-menu-three__btn thm-btn">Get a quote<span
+                                        <a href="index.php" class="main-menu-three__btn thm-btn">contact<span
                                                 class="icon-arrow-left"></span></a>
                                     </div>
                                 </div>
