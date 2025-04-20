@@ -62,8 +62,13 @@
                 <div class="logo-preloader" style="text-align: center; margin-bottom: 20px;">
                     <img src="assets/images/backgrounds/Logo.png" alt="Logo" class="img-fluid" style="max-width: 100px; align:center; margin:0 auto;">
                 </div>
+                <style>
+                    .letters-loading{
+                        /* font-size: 50px !important; */
+                    }
+                </style>
 
-                <div class="txt-loading">
+                <div style="font-size:10px" class="txt-loading">
                     <span data-text-preloader="G" class="letters-loading">G</span>
                     <span data-text-preloader="I" class="letters-loading">I</span>
                     <span data-text-preloader="E" class="letters-loading">E</span>
@@ -72,7 +77,8 @@
                     <span data-text-preloader="I" class="letters-loading">I</span>
                     <span data-text-preloader="T" class="letters-loading">T</span>
                     <span data-text-preloader="A" class="letters-loading">A</span>
-                    <span data-text-preloader=" " class="letters-loading"></span>
+                </div>
+                <div style="font-size: 10px ;" class="txt-loading">
                     <span data-text-preloader="U" class="letters-loading">U</span>
                     <span data-text-preloader="K" class="letters-loading">K</span>
                 </div>
