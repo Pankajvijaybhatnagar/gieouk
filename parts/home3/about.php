@@ -27,7 +27,7 @@
                     <p class="about-three__text">
                         Through classes, cultural events, and community service, we connect modern life with the divine teachings of Shri Krishna. We believe in the transformative power of the Gita to bring harmony, purpose, and joy to daily living.
                     </p>
-                    <ul class="about-three__points list-unstyled">
+                    <!-- <ul class="about-three__points list-unstyled">
                         <li>
                             <div class="icon">
                                 <span class="fas fa-book"></span>
@@ -52,7 +52,7 @@
                             </div>
                             <p>Seva and charity for the local community</p>
                         </li>
-                    </ul>
+                    </ul> -->
                 </div>
             </div>
             <div class="col-xl-6">
