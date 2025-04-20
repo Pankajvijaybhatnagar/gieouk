@@ -53,6 +53,13 @@
                             <p>Seva and charity for the local community</p>
                         </li>
                     </ul> -->
+                    <div class="main-menu-three__btn-box">
+    <a href="https://gieogita.org.uk" class="main-menu-three__btn thm-btn" target="_blank" rel="noopener noreferrer">
+        Read more<span class="icon-arrow-left"></span>
+    </a>
+</div>
+
+
                 </div>
             </div>
             <div class="col-xl-6">
