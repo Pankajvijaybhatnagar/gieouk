@@ -3,19 +3,25 @@
 <?php require_once('parts/header/header3.php'); ?>
 
 <?php require_once('parts/home3/banner.php'); ?>
-<?php require_once('parts/home3/about.php'); ?>
-<?php require_once('parts/home3/service.php'); ?>
 <?php require_once('parts/home3/slidingtext.php'); ?>
-<?php require_once('parts/home3/slidingtext2.php'); ?>
 <?php require_once('parts/home3/service2.php'); ?>
+<?php require_once('parts/home3/about.php'); ?>
+<?php 
+// require_once('parts/home3/service.php'); 
+?>
+<?php require_once('parts/home3/slidingtext.php'); ?>
+
+
 <?php  
 // require_once('parts/home3/whychoose.php'); 
 ?>
 <?php require_once('parts/home3/slidingtext.php'); ?>
-<?php require_once('parts/home3/slidingtext2.php'); ?>
+
+
 <?php require_once('parts/home3/process.php'); ?>
 
 <?php require_once('parts/home3/project.php'); ?>
+<?php require_once('parts/home3/slidingtext2.php'); ?>
 <?php require_once('parts/home3/circle.php'); ?>
 <?php require_once('parts/home3/counter.php'); ?>
 <?php require_once('parts/home3/testimonial.php'); ?>
