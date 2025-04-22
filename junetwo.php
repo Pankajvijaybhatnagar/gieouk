@@ -92,94 +92,109 @@ require_once('parts/page-title.php');
 </div>
 
 <div class="service-details__content-two" style="font-family: inherit;">
+
     <h4 class="service-details__title-two" style="color: #4e151b;">
-        <i class="fas fa-star" style="color: #4e151b; margin-right: 6px;"></i> Manchester Gita Festival 2025 – Opening Night
+        <i class="fas fa-om" style="color: #4e151b; margin-right: 6px;"></i> Manchester Gita Festival 2025 – Sunday Morning Programme
     </h4>
-    <p class="service-details__text-3" style="text-align: justify;">
-        <strong><i class="fas fa-dove" style="color: #4e151b; margin-right: 6px;"></i> Yoga Through Culture & Science</strong><br><br>
 
-        <i class="fas fa-calendar-alt" style="color: #4e151b; margin-right: 6px;"></i> <strong>Date:</strong> Friday 20th June 2025<br>
-        <i class="fas fa-clock" style="color: #4e151b; margin-right: 6px;"></i> <strong>Time:</strong> 6:00 PM – 9:00 PM<br>
-        <i class="fas fa-map-marker-alt" style="color: #4e151b; margin-right: 6px;"></i> <strong>Venue:</strong> Wythenshawe Forum, M22 5RX
+    <p class="service-details__text-3" style="text-align: justify;">
+        <strong><i class="fas fa-fire" style="color: #4e151b; margin-right: 6px;"></i> Maha Yagna & Pravachan with His Holiness Gita Manishi Swami Gyananand Ji Maharaj</strong><br><br>
+
+        <i class="fas fa-calendar-alt" style="color: #4e151b; margin-right: 6px;"></i> <strong>Date:</strong> Sunday 22nd June 2025<br>
+        <i class="fas fa-clock" style="color: #4e151b; margin-right: 6px;"></i> <strong>Time:</strong> 9:00 AM – 12:00 PM<br>
+        <i class="fas fa-map-marker-alt" style="color: #4e151b; margin-right: 6px;"></i> <strong>Venue:</strong> Indian Association Oldham, Schofield Street, Oldham OL8 1QG
     </p>
 
     <p class="service-details__text-3" style="text-align: justify;">
-        Join us for the Opening Night of the Manchester Gita Festival 2025 — an inspiring evening that unites science, spirituality, and culture to explore the timeless wisdom of Yoga as revealed in the Bhagwad Gita.<br><br>
-        This special ticketed event opens the International Yoga Weekend and offers a unique opportunity to experience Yoga beyond the mat — through wisdom, devotion, meditation, and selfless action.
-    </p>
-
-    <p class="service-details__text-3" style="text-align: justify;">
-        <strong><i class="fas fa-bullhorn" style="color: #4e151b; margin-right: 6px;"></i> Evening Highlights:</strong><br>
-        <ul style="padding-left: 20px; text-align: justify; list-style-type: disc;">
-            <li>Keynote talks from leading thinkers on the origins, philosophy, and scientific relevance of Yoga</li>
-            <li>A stunning cultural showcase combining music, dance, and narration to depict the four Yogic paths:</li>
-            <ul style="list-style-type: circle; padding-left: 20px;">
-                <li>Karma Yoga (Path of Action)</li>
-                <li>Bhakti Yoga (Path of Devotion)</li>
-                <li>Dhyana Yoga (Path of Meditation)</li>
-                <li>Gyan Yoga (Path of Knowledge)</li>
-            </ul>
-            <li>Reflections on how the ancient teachings of the Gita align with modern well-being, clarity of purpose, and global harmony</li>
-            <li>A special display of the INSIGHT UK Darshana "Hindu Civilisation" Exhibition, highlighting the profound contributions of Hindu culture to the world</li>
-        </ul>
-    </p>
-
-    <p class="service-details__text-3" style="text-align: justify;">
-        <i class="fas fa-utensils" style="color: #4e151b; margin-right: 6px;"></i> Complimentary food will be served after the programme — a chance to relax, connect, and continue the conversation over a nourishing meal.<br>
-        <i class="fas fa-user-tie" style="color: #4e151b; margin-right: 6px;"></i> Dress Code: Smart or Cultural Attire Encouraged<br>
-        <i class="fas fa-ticket-alt" style="color: #4e151b; margin-right: 6px;"></i> Limited seats available – early booking strongly recommended
+        The grand finale of the Manchester Gita Festival 2025 takes place on Sunday morning at the Indian Association Oldham — a spiritually elevating gathering of prayer, wisdom, and community.
+        <br><br>
+        The programme opens with a <strong>Maha Yagna</strong>, a sacred Vedic fire ceremony to invoke divine blessings and inner peace. This is followed by a soul-stirring <strong>pravachan</strong> (spiritual discourse) by His Holiness Gita Manishi Swami Gyananand Ji Maharaj, exploring the deep connection between Yoga and the Bhagwad Gita.
+        <br><br>
+        This session will bring clarity and insight into how the Gita presents Yoga not just as physical practice, but as a complete path of inner growth, spiritual discipline, and selfless action for everyday life.
     </p>
 
     <hr style="border-top: 1px solid #ccc;">
 
-    <h4 class="service-details__title-two" style="margin-top: 30px; color: #4e151b;">
-        <i class="fas fa-car-side" style="color: #4e151b; margin-right: 6px;"></i> Getting There: Parking & Public Transport
+    <h4 class="service-details__title-two" style="color: #4e151b;">
+        <i class="fas fa-calendar-check" style="color: #4e151b; margin-right: 6px;"></i> 🔥 Programme Schedule
+    </h4>
+
+    <ul style="padding-left: 20px; text-align: justify; list-style-type: disc;">
+        <li><strong>9:00 AM – Maha Yagna</strong><br>
+            A powerful Vedic fire ceremony for purification, harmony, and global peace</li>
+        <li><strong>Followed by – Pravachan: "Yoga and the Bhagwad Gita"</strong><br>
+            A profound talk by His Holiness Gita Manishi Swami Gyananand Ji Maharaj<br>
+            Discover how the Bhagwad Gita defines Yoga as a way of living — integrating knowledge, devotion, action, and meditation into one holistic path</li>
+    </ul>
+
+    <hr style="border-top: 1px solid #ccc;">
+
+    <h4 class="service-details__title-two" style="color: #4e151b;">
+        <i class="fas fa-utensils" style="color: #4e151b; margin-right: 6px;"></i> 🍛 Prasad & Hospitality
     </h4>
 
     <p class="service-details__text-3" style="text-align: justify;">
-        <strong><i class="fas fa-parking" style="color: #4e151b; margin-right: 6px;"></i> Parking:</strong><br>
-        Wythenshawe Forum has ample free parking on-site, including accessible parking bays near the main entrance. Arrive early to secure the most convenient spaces.
-    </p>
-
-    <p class="service-details__text-3" style="text-align: justify;">
-        <strong><i class="fas fa-subway" style="color: #4e151b; margin-right: 6px;"></i> By Tram:</strong><br>
-        Take the Metrolink to Wythenshawe Town Centre. The Forum is just a 2-minute walk from the tram stop, making it an easy and eco-friendly option.
-    </p>
-
-    <p class="service-details__text-3" style="text-align: justify;">
-        <strong><i class="fas fa-bus" style="color: #4e151b; margin-right: 6px;"></i> By Bus:</strong><br>
-        Wythenshawe Forum is well served by buses including routes 11, 18, 19, 103, 368, 378, and 419. Get off at Wythenshawe Bus Station, which is right next to the venue.
+        At the close of the programme, <strong>Prasad</strong> (sanctified vegetarian food) will be lovingly served to all attendees as a token of divine blessing and hospitality.
     </p>
 
     <hr style="border-top: 1px solid #ccc;">
 
+    <h4 class="service-details__title-two" style="color: #4e151b;">
+        <i class="fas fa-parking" style="color: #4e151b; margin-right: 6px;"></i> 🚗 Parking Information
+    </h4>
+
     <p class="service-details__text-3" style="text-align: justify;">
-        <i class="fas fa-lightbulb" style="color: #4e151b; margin-right: 6px;"></i> An evening of insight, inspiration, and cultural richness — not to be missed.
+        Free on-site parking is available at Indian Association Oldham on Schofield Street, with additional parking available on nearby streets. Please arrive early to park easily.
     </p>
+
+    <hr style="border-top: 1px solid #ccc;">
+
+    <h4 class="service-details__title-two" style="color: #4e151b;">
+        <i class="fas fa-bus-alt" style="color: #4e151b; margin-right: 6px;"></i> 🚍 Public Transport
+    </h4>
+
+    <ul style="padding-left: 20px; text-align: justify; list-style-type: disc;">
+        <li><strong>By Tram:</strong> Nearest Metrolink stop: <em>Oldham Central</em> – approx. 10–12 minutes’ walk</li>
+        <li><strong>By Bus:</strong> Frequent local buses including routes 81, 83, 180, 184, 350 serve the area with stops close to Schofield Street</li>
+        <li><strong>By Train:</strong> Accessible via <em>Manchester Victoria</em> with onward travel by tram or bus into Oldham town centre</li>
+    </ul>
+
+    <hr style="border-top: 1px solid #ccc;">
+
+    <p class="service-details__text-3" style="text-align: justify;">
+        <i class="fas fa-tshirt" style="color: #4e151b; margin-right: 6px;"></i> <strong>Dress Code:</strong> Traditional or cultural attire is warmly encouraged<br>
+        <i class="fas fa-dove" style="color: #4e151b; margin-right: 6px;"></i> <strong>All are welcome – come with devotion, leave with blessings</strong>
+    </p>
+
 </div>
 
-                            <div class="service-details__img-boxes">
-                                <div class="row">
-                                    <div class="col-xl-6">
-                                        <div class="service-details__img-boxes-single">
-                                            <img src="assets/images/services/service-details-img-boxes-1-1.jpg" alt="">
-                                        </div>
-                                    </div>
-                                    <div class="col-xl-6">
-                                        <div class="service-details__img-boxes-single">
-                                            <img src="assets/images/services/service-details-img-boxes-1-2.jpg" alt="">
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
+
+<div class="service-details__img-boxes">
+    <div class="row">
+        <!-- Image 1: Maha Yagna Ceremony -->
+        <div class="col-xl-6">
+            <div class="service-details__img-boxes-single">
+                <img src="assets/images/services/gita-maha-yagna.jpg" alt="Maha Yagna ceremony during Manchester Gita Festival 2025">
+            </div>
+        </div>
+
+        <!-- Image 2: Devotional Singing Bhakti Yoga Evening -->
+        <div class="col-xl-6">
+            <div class="service-details__img-boxes-single">
+                <img src="assets/images/services/gita-bhakti-evening.jpg" alt="Devotees engaged in Bhakti Yoga - music, mantra, and meditation">
+            </div>
+        </div>
+    </div>
+</div>
+
                             <div class="service-details__service-process">
-    <h4 class="service-details__service-process-title">
+    <!-- <h4 class="service-details__service-process-title">
         <i class="fas fa-praying-hands" style="color: #2c3e50; margin-right: 6px;"></i> Evening Highlights – Yogic Paths
-    </h4>
+    </h4> -->
     <div class="row">
 
         <!-- Karma Yoga -->
-        <div class="col-xl-6">
+        <!-- <div class="col-xl-6">
             <div class="service-details__service-process-single">
                 <div class="service-details__service-process-icon">
                     <i class="fas fa-hands-helping" style="font-size: 24px; color: #2c3e50;"></i>
@@ -191,10 +206,10 @@ require_once('parts/page-title.php');
                     </p>
                 </div>
             </div>
-        </div>
+        </div> -->
 
         <!-- Bhakti Yoga -->
-        <div class="col-xl-6">
+        <!-- <div class="col-xl-6">
             <div class="service-details__service-process-single">
                 <div class="service-details__service-process-icon">
                     <i class="fas fa-heart" style="font-size: 24px; color: #2c3e50;"></i>
@@ -206,10 +221,10 @@ require_once('parts/page-title.php');
                     </p>
                 </div>
             </div>
-        </div>
+        </div> -->
 
         <!-- Dhyana Yoga -->
-        <div class="col-xl-6">
+        <!-- <div class="col-xl-6">
             <div class="service-details__service-process-single">
                 <div class="service-details__service-process-icon">
                     <i class="fas fa-spa" style="font-size: 24px; color: #2c3e50;"></i>
@@ -221,10 +236,10 @@ require_once('parts/page-title.php');
                     </p>
                 </div>
             </div>
-        </div>
+        </div> -->
 
         <!-- Gyan Yoga -->
-        <div class="col-xl-6">
+        <!-- <div class="col-xl-6">
             <div class="service-details__service-process-single">
                 <div class="service-details__service-process-icon">
                     <i class="fas fa-book-reader" style="font-size: 24px; color: #2c3e50;"></i>
@@ -236,7 +251,7 @@ require_once('parts/page-title.php');
                     </p>
                 </div>
             </div>
-        </div>
+        </div> -->
 
     </div>
 </div>
