@@ -30,7 +30,7 @@
 		<ul>
 			<li><a href="https://gieogita.org.uk/diwali-cup">Diwali Cup</a></li>
 			<li><a href="https://gieogita.org.uk/manchester-gita-festival-2024">Manchester Gita Festival 2024</a></li>
-			<li><a href="https://gieogita.org.uk/manchester-gita-festival-2025">Manchester Gita Festival 2024</a></li>
+			<li><a href="https://gieogita.org.uk/manchester-gita-festival-2025">Manchester Gita Festival 2025</a></li>
 		</ul>
 	</li>
 
