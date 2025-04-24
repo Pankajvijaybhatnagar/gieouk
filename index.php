@@ -1,4 +1,5 @@
-<?php $head_title="Home3 || topfool || topfool PHP Template"?>
+<?php $head_title= "Manchester Gita Festival 2025 – Day 1: Opening Night & Yoga Through Culture & Science || GIEO Gita UK"
+?>
 <?php require_once('parts/layout/top-layout.php'); ?>
 <?php require_once('parts/header/header3.php'); ?>
 
