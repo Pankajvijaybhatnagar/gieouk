@@ -1,12 +1,12 @@
 <ul class="main-menu__list">
 	<li>
-		<a href="https://gieogita.org.uk/index.php">Home</a>
+		<a href="https://gieogita.org.uk/">Home</a>
 	</li>
 	<li>
-		<a href="https://gieogita.org.uk/about.php">About Us</a>
+		<a href="https://gieogita.org.uk/">About Us</a>
 	</li>
 	<li>
-		<a href="https://gieogita.org.uk/join.php">Join GIEO Gita</a>
+		<a href="https://parivaar.gieogita.org/">Join GIEO Gita</a>
 	</li>
 
 	<li class="dropdown">
