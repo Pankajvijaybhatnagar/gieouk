@@ -71,7 +71,7 @@
       <style>
         .btn-of-link{
           color:white;
-          
+
         }
       </style>
 
@@ -143,7 +143,7 @@
                   </ul>
                   <p>Kirtan led by renowned artists, reflections from the Gita on Bhakti Yoga, collective mantra chanting and guided meditation in a serene, spiritual setting.</p>
                   <p><strong>🍛 Prasad served to all guests</strong><br><strong>👘 Cultural attire encouraged</strong><br><strong>🚗 Parking available on-site</strong></p>
-                  <a class="btn-of-link" href="day-3.php">Read more</a>
+                  <a class="btn-of-link" href="day-2.php">Read more</a>
                 </div>
               </div>
 
@@ -158,6 +158,7 @@
                   </ul>
                   <p>A sacred Maha Yagna for global harmony, followed by a spiritual discourse by His Holiness Swami Gyananand Ji Maharaj on the true essence of Yoga as taught in the Bhagvad Gita.</p>
                   <p><strong>🍛 Prasad offered</strong><br><strong>🚍 Tram: Oldham Central | Bus: 81, 83, 180+</strong><br><strong>🚗 Free on-site & street parking</strong></p>
+                  <a class="btn-of-link" href="day-3.php">Read more</a>
                 </div>
               </div>
 
