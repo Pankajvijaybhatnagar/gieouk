@@ -36,7 +36,7 @@
                                 <a href="#"><i class="icon-facebook"></i></a>
                                 <a href="#"><i class="icon-instagram"></i></a>
                                 <a href="#"><i class="icon-twitter"></i></a>
-                                <a href="#"><i class="icon-linkin"></i></a>
+                                
                             </div>
                         </div>
                     </div>

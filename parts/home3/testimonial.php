@@ -55,7 +55,7 @@
                                         <div class="testimonial-three__quote">
                                             <span class="icon-quote"></span>
                                         </div>
-                                        <p class="testimonial-three__text">Attending the Gieogita session with Gitaminishi Gyannand Ji Maharaj was truly life-changing. His divine guidance and simplified explanation of Bhagavad Gita brought me inner peace and clarity. A must-attend spiritual experience in Manchester!</p>
+                                        <p class="testimonial-three__text">Attending the Gieogita session with Gitaminishi Gyannand Ji Maharaj was truly life-changing. His divine guidance and simplified explanation of Bhagvad Gita brought me inner peace and clarity. A must-attend spiritual experience in Manchester!</p>
                                     </div>
                                     <div class="testimonial-three__client-info">
                                         <div class="testimonial-three__client-img">

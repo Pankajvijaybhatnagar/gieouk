@@ -35,7 +35,7 @@
                                     A Celebration of Culture <br> and <span style="color: #fff;">Spiritual Unity</span>
                                 </h2>
                                 <p class="main-slider-three__text" style="color: #fff;">
-                                    Join us for a transformative journey into the heart of Yoga and the teachings of the Bhagavad Gita. Explore devotion, wisdom, and harmony over 3 days of immersive events across Manchester – 20th to 22nd June 2025.
+                                    Join us for a transformative journey into the heart of Yoga and the teachings of the Bhagvad Gita. Explore devotion, wisdom, and harmony over 3 days of immersive events across Manchester – 20th to 22nd June 2025.
                                 </p>
                                 <div class="main-slider-three__btn-and-video">
                                     <div class="main-slider-three__btn-box">
@@ -67,7 +67,7 @@
                         <div class="col-xl-12">
                             <div class="main-slider-three__content">
                                 <div class="main-slider-three__sub-title-box">
-                                    <p class="main-slider-three__sub-title" style="color: #fff;">Bhagavad Gita Inspired</p>
+                                    <p class="main-slider-three__sub-title" style="color: #fff;">Bhagvad Gita Inspired</p>
                                 </div>
                                 <h2 class="main-slider-three__title" style="color: #fff;">
                                     Discover Yoga as a Path <br> to <span style="color: #fff;">Inner Freedom</span>

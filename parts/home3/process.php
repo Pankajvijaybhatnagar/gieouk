@@ -17,7 +17,7 @@
             <i class="fas fa-book"></i>
           </div>
           <h3 class="process-two__title"><a href="about.php">Gita Wisdom Sessions</a></h3>
-          <p class="process-two__text">Learn timeless teachings from the Bhagavad Gita, guided by revered acharyas and swamis.</p>
+          <p class="process-two__text">Learn timeless teachings from the Bhagvad Gita, guided by revered acharyas and swamis.</p>
         </div>
       </div>
 

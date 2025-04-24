@@ -16,7 +16,7 @@
                                 <div class="main-menu-four__search-btn-box">
                                     <a href="#" class="main-menu-four__search search-toggler icon-search"></a>
                                     <div class="main-menu-four__btn-box">
-                                        <a href="contact.php" class="main-menu-four__btn thm-btn">Get a quote<span
+                                        <a href="contact.php" class="main-menu-four__btn thm-btn">Contact<span
                                                 class="icon-arrow-left"></span></a>
                                     </div>
                                 </div>

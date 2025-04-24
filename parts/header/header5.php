@@ -61,8 +61,8 @@
                                 <div class="main-menu-five__search-btn-box">
                                     <a href="#" class="main-menu-five__search search-toggler icon-search"></a>
                                     <div class="main-menu-five__btn-box">
-                                        <a href="contact.php" class="main-menu-five__btn thm-btn">Get a quote<span
-                                                class="icon-arrow-left"></span></a>
+                                        <!--<a href="contact.php" class="main-menu-five__btn thm-btn">Get a quote<span-->
+                                        <!--        class="icon-arrow-left"></span></a>-->
                                     </div>
                                 </div>
                             </div>

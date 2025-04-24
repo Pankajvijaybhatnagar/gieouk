@@ -61,7 +61,7 @@
             </div>
             <h2 class="section-title__title">Manchester Gita Festival 2025<br> Full 3-Day Experience</h2>
           </div>
-          <p class="services-seven__text">From yoga in the park to spiritual discourses and kirtans, experience the timeless teachings of the Bhagavad Gita in a vibrant, community-led celebration across Manchester.</p>
+          <p class="services-seven__text">From yoga in the park to spiritual discourses and kirtans, experience the timeless teachings of the Bhagvad Gita in a vibrant, community-led celebration across Manchester.</p>
           <div class="services-seven__nav">
             <div class="swiper-button-next1"><i class="fas fa-chevron-left"></i></div>
             <div class="swiper-button-prev1"><i class="fas fa-chevron-right"></i></div>
@@ -147,7 +147,7 @@
                     <li><p><strong>Time:</strong> 9:00 AM – 12:00 PM</p><div class="icon"><i class="fas fa-check"></i></div></li>
                     <li><p><strong>Venue:</strong> Indian Association Oldham, OL8 1QG</p><div class="icon"><i class="fas fa-check"></i></div></li>
                   </ul>
-                  <p>A sacred Maha Yagna for global harmony, followed by a spiritual discourse by His Holiness Swami Gyananand Ji Maharaj on the true essence of Yoga as taught in the Bhagavad Gita.</p>
+                  <p>A sacred Maha Yagna for global harmony, followed by a spiritual discourse by His Holiness Swami Gyananand Ji Maharaj on the true essence of Yoga as taught in the Bhagvad Gita.</p>
                   <p><strong>🍛 Prasad offered</strong><br><strong>🚍 Tram: Oldham Central | Bus: 81, 83, 180+</strong><br><strong>🚗 Free on-site & street parking</strong></p>
                 </div>
               </div>

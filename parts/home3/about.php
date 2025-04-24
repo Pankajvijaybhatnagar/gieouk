@@ -11,7 +11,7 @@
                 <div class="col-xl-6">
                     <div class="about-three__top-right wow fadeInRight" data-wow-delay="100ms">
                         <p class="about-three__top-text">
-                            Gieo Gita UK is dedicated to sharing the timeless wisdom of the Bhagavad Gita through discourse, dialogue, and devotion. Based in Manchester, we aim to inspire spiritual growth, inner peace, and positive living for individuals of all ages and backgrounds.
+                            Gieo Gita UK is dedicated to sharing the timeless wisdom of the Bhagvad Gita through discourse, dialogue, and devotion. Based in Manchester, we aim to inspire spiritual growth, inner peace, and positive living for individuals of all ages and backgrounds.
                         </p>
                     </div>
                 </div>
