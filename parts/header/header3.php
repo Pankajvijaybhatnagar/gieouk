@@ -55,7 +55,7 @@
                                     <?php require_once('parts/header/menu.php'); ?>
                                 </div>
                             </div>
-                            <div class="main-menu-three__right">
+                            <!-- <div class="main-menu-three__right">
                                 <div class="main-menu-three__search-btn-box">
                                     <a href="#" class="main-menu-three__search search-toggler icon-search"></a>
                                     <div class="main-menu-three__btn-box">
@@ -63,7 +63,7 @@
                                                 class="icon-arrow-left"></span></a>
                                     </div>
                                 </div>
-                            </div>
+                            </div> -->
                         </div>
                     </div>
                 </div>
