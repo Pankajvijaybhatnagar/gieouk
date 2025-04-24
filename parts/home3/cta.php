@@ -1,6 +1,6 @@
 <!--CTA Two Start-->
 <section class="cta-two">
-    <div class="cta-two__img-1" style="background-image: url(assets/images/resources/manchester-bg.jpg);"></div>
+    <div class="cta-two__img-1" style="background-image: url(assets/images/resources/imgpic.jpg);"></div>
     <div class="cta-two__shape-1 float-bob-x">
         <img src="assets/images/shapes/cta-two-shape-1.png" alt="Gieogita UK Manchester Decorative Shape">
     </div>
