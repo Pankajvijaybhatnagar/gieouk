@@ -1,5 +1,5 @@
 <!-- Sliding Text Three Start -->
- <h1 style="text-align: center; margin-top:15px"  >Partners</h1>
+ <h1 style="text-align: center; margin:30px"  >Partners</h1>
 <section class="sliding-text-three">
     <div class="sliding-text-three__wrap">
         <ul class="sliding-text-three__list list-unstyled marquee_mode-two">
