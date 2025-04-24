@@ -1,4 +1,5 @@
-<?php $head_title="20<sup>th</sup> June 2025 ||  Day 1 || Manchester Gita Festivel 2025"?>
+<?php $head_title= "Manchester Gita Festival 2025 – Day 1: Opening Night & Yoga Through Culture & Science || GIEO Gita UK" 
+?>
 <?php require_once('parts/layout/top-layout.php'); ?>
 <!-- header -->
 <?php require_once('parts/header/header4.php'); ?>

@@ -1,4 +1,5 @@
-<?php $head_title="Manchester Gita Festival 2025 – Sunday Morning Programme || topfool || topfool PHP Template"?>
+<?php $head_title= "Manchester Gita Festival 2025 – Day 3: Sunday Morning Programme || GIEO Gita UK "
+?>
 <?php require_once('parts/layout/top-layout.php'); ?>
 <!-- header -->
 <?php require_once('parts/header/header4.php'); ?>
