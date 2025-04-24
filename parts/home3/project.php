@@ -45,7 +45,7 @@
             <div class="project-three__img">
             <img style="aspect-ratio: 410/299;" src="assets/images/backgrounds/img3.jpg" alt="Bhakti Evening">
             </div>
-            <h3> Day 1: Opening Night & Yoga Through Culture & Science
+            <h3> Day 3: Sunday Morning Programme
             </h3>
           </div>
           </a>
