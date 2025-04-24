@@ -2,7 +2,7 @@
 ?>
 <?php require_once('parts/layout/top-layout.php'); ?>
 <!-- header -->
-<?php require_once('parts/header/header4.php'); ?>
+<?php require_once('parts/header/header3.php'); ?>
 <?php
 $page_title = "20<sup>th</sup> June 2025 - Day 1";
 require_once('parts/page-title.php');
@@ -427,5 +427,5 @@ require_once('parts/page-title.php');
 
 <!--Site Footer Start-->
 
-<?php require_once('parts/footer/footer4.php'); ?>
+<?php require_once('parts/footer/footer3.php'); ?>
 <?php require_once('parts/layout/bottom-layout.php'); ?>
