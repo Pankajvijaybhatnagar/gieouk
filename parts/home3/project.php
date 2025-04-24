@@ -29,7 +29,7 @@
           </a>
         </div>
         <div class="col-xl-4 col-lg-4 wow fadeInLeft" data-wow-delay="100ms">
-          <a href="day-1.php">
+          <a href="day-2.php">
           <div class="project-three__single">
             <div class="project-three__img">
               <img src="assets/images/backgrounds/img2.png" alt="Yoga in the Park">
@@ -40,7 +40,7 @@
           </a>
         </div>
         <div class="col-xl-4 col-lg-4 wow fadeInLeft" data-wow-delay="100ms">
-          <a href="day-1.php">
+          <a href="day-3.php">
           <div class="project-three__single">
             <div class="project-three__img">
             <img style="aspect-ratio: 410/299;" src="assets/images/backgrounds/img3.jpg" alt="Bhakti Evening">
