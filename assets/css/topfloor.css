@@ -6533,7 +6533,8 @@ ul {
 }
 
 .site-footer__bottom-menu li a:hover {
-  color: var(--topfloor-base);
+  /* color: var(--topfloor-white); */
+  color: white !important;
 }
 
 /*--------------------------------------------------------------
