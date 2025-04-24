@@ -1,3 +1,5 @@
+
+
 <?php $head_title= "Manchester Gita Festival 2025 – Day 3: Sunday Morning Programme || GIEO Gita UK "
 ?>
 <?php require_once('parts/layout/top-layout.php'); ?>

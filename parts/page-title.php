@@ -10,7 +10,7 @@
                         <ul class="thm-breadcrumb list-unstyled">
                             <li><a href="./">Home</a></li>
                             <li><span class="icon-arrow-left"></span></li>
-                            <li><?php if(isset($page_title)&&!empty($page_title)) { echo $page_title; } ?></li>
+                            <li><?php //if(isset($page_title)&&!empty($page_title)) { echo $page_title; } ?></li>
                         </ul>
                     </div>
                 </div>
