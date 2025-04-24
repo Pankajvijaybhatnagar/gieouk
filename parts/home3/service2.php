@@ -106,6 +106,7 @@
                   </ul>
                   <p>Keynote talks on Yoga’s origin, philosophy & science. A cultural showcase illustrating Karma, Bhakti, Dhyana & Gyan Yoga. Reflections on Gita and its impact on well-being, plus the INSIGHT UK Darshana Exhibition.</p>
                   <p><strong>🍛 Complimentary food</strong> | <strong>🎟 Booking essential</strong> | <strong>👗 Dress code:</strong> Cultural/Smart</p>
+                  <a href="day-1.php">Read more</a>
                 </div>
               </div>
 
@@ -121,6 +122,7 @@
                   </ul>
                   <p>9:30 AM–12 PM: Community Yoga Session<br>12 PM–2:30 PM: Workshops on Pranayama (Ujjayi, Kapalbhati, Bhramari, Bhastrika), Surya Namaskar, Laughter Yoga, Hatha Yoga, Chair & Teen Yoga, Sound & Yin Yoga, and Meditation.</p>
                   <p><strong>Children's Yoga Zones</strong> | <strong>Bring water & mat</strong> | <strong>Transport:</strong> Buses, Trams, Limited Parking</p>
+                  <a href="day-2.php">Read more</a>
                 </div>
               </div>
 
@@ -135,6 +137,7 @@
                   </ul>
                   <p>Kirtan led by renowned artists, reflections from the Gita on Bhakti Yoga, collective mantra chanting and guided meditation in a serene, spiritual setting.</p>
                   <p><strong>🍛 Prasad served to all guests</strong><br><strong>👘 Cultural attire encouraged</strong><br><strong>🚗 Parking available on-site</strong></p>
+                  <a href="day-3.php">Read more</a>
                 </div>
               </div>
 
