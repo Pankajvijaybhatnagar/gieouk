@@ -8,7 +8,7 @@
                                     <i class="icon-call"></i>
                                 </div>
                                 <div class="text">
-                                    <p><a href="tel:629555-0129">1234567890</a>
+                                    <p><a href="tel:629555-0129">+44 808 555 0111</a>
                                     </p>
                                 </div>
                             </li>
