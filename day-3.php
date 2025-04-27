@@ -1,5 +1,3 @@
-
-
 <?php $head_title= "Manchester Gita Festival 2025 – Day 3: Sunday Morning Programme || GIEO Gita UK "
 ?>
 <?php require_once('parts/layout/top-layout.php'); ?>
@@ -357,15 +355,15 @@ require_once('parts/page-title.php');
                     <!-- Help Box -->
                     <div class="service-details__need-help">
                         <div class="service-details__need-help-icon">
-                            <i class="fas fa-phone-alt" style="font-size: 20px; color: #4e151b;"></i>
+                            <i class="fas fa-mail" style="font-size: 20px; color: #4e151b;"></i>
                         </div>
-                        <p class="service-details__need-help-sub-title">Need Help?</p>
+                        <p class="service-details__need-help-sub-title">Need Assistance?</p>
                         <h5 class="service-details__need-help-number">
-                            <a href="tel:+448085550111"></a>
+                            <a href="mail:info@gieogita.org.uk">Email:- info@gieogita.org.uk</a>
                         </h5>
                         <p class="service-details__need-help-text">
-                            Have questions about the Gita Festival or ticket bookings? Our dedicated team is happy to
-                            assist with all your queries.
+                            Have questions about routes, accessibility, or group registration for the Shobha Yatra? Mail
+                            us – we're here to help make your experience smooth and joyful.
                         </p>
                     </div>
 

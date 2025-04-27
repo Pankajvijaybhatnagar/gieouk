@@ -7,8 +7,8 @@
 $page_title = "20<sup>th</sup> June 2025 - Day 1";
 require_once('parts/page-title.php');
 ?>
-        <!-- Sliding Text Three Start -->
-<h1 style="text-align: center; margin: 30px;"  >ASSOCIATION WITH</h1>
+<!-- Sliding Text Three Start -->
+<h1 style="text-align: center; margin: 30px;">ASSOCIATION WITH</h1>
 <section class="sliding-text-three">
     <div class="sliding-text-three__wrap">
         <ul class="sliding-text-three__list list-unstyled marquee_mode">
@@ -116,7 +116,7 @@ require_once('parts/page-title.php');
             </div>
         </li>
     </ul> -->
-    
+
                     </div>
 
                     <div class="service-details__content-two" style="font-family: inherit;">
@@ -299,12 +299,12 @@ require_once('parts/page-title.php');
                                     </div>
                                 </div>
                             </div>
-<!-- Sliding Text Three Start -->
- <h1 style=" margin-top:30px; margin-left:540px"  >Partners</h1>
-<section class="sliding-text-three">
-    <div class="sliding-text-three__wrap">
-        <ul class="sliding-text-three__list list-unstyled marquee_mode-two">
-            <?php
+                            <!-- Sliding Text Three Start -->
+                            <h1 style=" margin-top:30px; margin-left:540px">Partners</h1>
+                            <section class="sliding-text-three">
+                                <div class="sliding-text-three__wrap">
+                                    <ul class="sliding-text-three__list list-unstyled marquee_mode-two">
+                                        <?php
             $logoDir = 'assets/images/partners/'; // Folder containing partner logos
             $logoFiles = glob($logoDir . '*.{jpg,jpeg,png,gif,svg}', GLOB_BRACE);
 
@@ -321,10 +321,10 @@ require_once('parts/page-title.php');
                 echo '<li><h2 class="sliding-text-three__title">No Partner Logos Found</h2></li>';
             }
             ?>
-        </ul>
-    </div>
-</section>
-<!-- Sliding Text Three End -->
+                                    </ul>
+                                </div>
+                            </section>
+                            <!-- Sliding Text Three End -->
                         </div>
                     </div>
 
@@ -351,15 +351,15 @@ require_once('parts/page-title.php');
                     <!-- Help Box -->
                     <div class="service-details__need-help">
                         <div class="service-details__need-help-icon">
-                            <i class="fas fa-phone-alt" style="font-size: 20px; color: #4e151b;"></i>
+                            <i class="fas fa-mail" style="font-size: 20px; color: #4e151b;"></i>
                         </div>
-                        <p class="service-details__need-help-sub-title">Need Help?</p>
+                        <p class="service-details__need-help-sub-title">Need Assistance?</p>
                         <h5 class="service-details__need-help-number">
-                            <a href="tel:+448085550111"></a>
+                            <a href="mail:info@gieogita.org.uk">Email:- info@gieogita.org.uk</a>
                         </h5>
                         <p class="service-details__need-help-text">
-                            Have questions about the Gita Festival or ticket bookings? Our dedicated team is happy to
-                            assist with all your queries.
+                            Have questions about routes, accessibility, or group registration for the Shobha Yatra? Mail
+                            us – we're here to help make your experience smooth and joyful.
                         </p>
                     </div>
 
@@ -384,7 +384,8 @@ require_once('parts/page-title.php');
                                 </div>
                                 <div class="content">
                                     <h5><a href="#">About Insight UK</a></h5>
-                                    <p>Learn more about the association, their mission, and the broader Gieo Gita UK initiative</p>
+                                    <p>Learn more about the association, their mission, and the broader Gieo Gita UK
+                                        initiative</p>
                                 </div>
                             </li>
                         </ul>
