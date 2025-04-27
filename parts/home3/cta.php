@@ -9,7 +9,7 @@
             <div class="col-xl-6 col-lg-4"></div>
             <div class="col-xl-6 col-lg-8">
                 <div class="cta-two__right">
-                    <h3 class="cta-two__title">Stay Connected with Gieogita UK Manchester</h3>
+                    <h3 class="cta-two__title">Stay Connected with GIEO Gita UK Manchester</h3>
                     <p class="cta-two__text">Join our local community newsletter to receive updates on events, cultural activities, and news happening in and around Manchester.</p>
                     <form class="cta-two__contact-form">
                         <div class="cta-two__contact-input-box">

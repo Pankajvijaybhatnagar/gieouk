@@ -73,6 +73,10 @@
           color:white;
 
         }
+        .btn-of-link:hover{
+          color:white !important;
+
+        }
       </style>
 
       <!-- Swiper Slider -->

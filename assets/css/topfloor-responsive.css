@@ -552,6 +552,10 @@
     .services-seven__single {
         padding: 60px 25px 60px;
     }
+    .services-seven__single :hover {
+        padding: 60px 25px 60px;
+        border: var(--topfloor-primary);
+    }
 
     .services-seven__title {
         font-size: 20px;

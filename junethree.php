@@ -323,7 +323,7 @@ require_once('parts/page-title.php');
     </div>
     <p class="service-details__need-help-sub-title">Need Assistance?</p>
     <h5 class="service-details__need-help-number">
-        <a href="tel:+448085550111">+44 808 555 0111</a>
+        <a href="tel:+448085550111"></a>
     </h5>
     <p class="service-details__need-help-text">
         Have questions about routes, accessibility, or group registration for the Shobha Yatra? Call us – we're here to help make your experience smooth and joyful.

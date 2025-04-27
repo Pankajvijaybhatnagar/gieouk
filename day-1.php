@@ -355,7 +355,7 @@ require_once('parts/page-title.php');
                         </div>
                         <p class="service-details__need-help-sub-title">Need Help?</p>
                         <h5 class="service-details__need-help-number">
-                            <a href="tel:+448085550111">+44 808 555 0111</a>
+                            <a href="tel:+448085550111"></a>
                         </h5>
                         <p class="service-details__need-help-text">
                             Have questions about the Gita Festival or ticket bookings? Our dedicated team is happy to

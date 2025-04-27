@@ -9914,6 +9914,7 @@ ul {
   background-color: rgba(33, 31, 54, .50);
   border-radius: 5px;
   padding: 60px 40px 60px;
+  border: 1px solid #ffc40091;
 }
 
 .services-seven__icon {
@@ -9977,7 +9978,7 @@ ul {
 }
 
 .services-seven__title a:hover {
-  color: var(--topfloor-base);
+  color: var(--topfloor-pr);
 }
 
 .services-seven__points {
