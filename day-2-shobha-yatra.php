@@ -38,13 +38,13 @@ require_once('parts/page-title.php');
         <div class="row">
             <div class="col-xl-8 col-lg-7">
                 <div class="service-details__left">
-                    <div class="service-details__img-one">
-                        <img src="assets/images/services/service-details-img-1.jpg" alt="">
+                    <div class="service-details__img-one ">
+                        <img src="assets/images/services/service-details-img-2.jpg" alt="GIEO Gita Uk Shobha yatra Manchaster gita festival 2025">
                     </div>
                     <div class="service-details__content-two" style="font-family: inherit;">
-                        <h4 class="service-details__title-two" style="color: #4e151b;">
+                        <h4 class="service-details__title-two mt-3" style="color: #4e151b; margin-top:20px">
                             <i class="fas fa-star" style="color: #4e151b; margin-right: 6px;"></i> Manchester Gita
-                            Festival 2025 – Shobha Yatra
+                            Festival 2025 – Shobha Yatra 
                         </h4>
                         <p class="service-details__text-3" style="text-align: justify;">
                             <strong><i class="fas fa-dove" style="color: #4e151b; margin-right: 6px;"></i> Procession for Peace, Love & Harmony</strong><br><br>
@@ -191,7 +191,7 @@ require_once('parts/page-title.php');
                             </div>
                             
                             <!-- Sliding Text Three Start -->
-                            <h1 style="margin-top:30px; margin-left:540px">Partners</h1>
+                            <h1 style="margin:30px; margin-left:540px">Partners</h1>
                             <section class="sliding-text-three">
                                 <div class="sliding-text-three__wrap">
                                     <ul class="sliding-text-three__list list-unstyled marquee_mode-two">

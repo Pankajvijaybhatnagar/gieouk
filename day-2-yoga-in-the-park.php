@@ -4,7 +4,7 @@
 <!-- header -->
 <?php require_once('parts/header/header3.php'); ?>
 <?php
-$page_title = "21<sup>st</sup> June 2025 - Day 2";
+$page_title = "21<sup>st</sup> June 2025 - Yoga in the park";
 require_once('parts/page-title.php');
 ?>
 <!-- Sliding Text Three Start -->
@@ -39,10 +39,10 @@ require_once('parts/page-title.php');
             <div class="col-xl-8 col-lg-7">
                 <div class="service-details__left">
                     <div class="service-details__img-one">
-                        <img src="assets/images/services/service-details-img-1.jpg" alt="">
+                        <img src="assets/images/services/yoga.jpg" alt="">
                     </div>
                     <div class="service-details__content-two" style="font-family: inherit;">
-                        <h4 class="service-details__title-two" style="color: #4e151b;">
+                        <h4 class="service-details__title-two mt-3" style="color: #4e151b;">
                             <i class="fas fa-star" style="color: #4e151b; margin-right: 6px;"></i> Manchester Gita
                             Festival 2025 – Day 2
                         </h4>

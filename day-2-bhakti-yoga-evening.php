@@ -5,7 +5,7 @@
 <?php require_once('parts/header/header3.php'); ?>
 
 <?php
-$page_title = "Manchester Gita Festival 2025";
+$page_title = "21<sup>st</sup> June 2025 - Bhakti Yoga evening ";
 require_once('parts/page-title.php');
 ?>
 
@@ -39,12 +39,12 @@ require_once('parts/page-title.php');
                 <div class="service-details__left">
 
                     <div class="service-details__img-one">
-                        <img src="assets/images/services/service-details-img-2.jpg" alt="">
+                        <img src="assets/images/services/bkti-evening.jpg" alt="">
                     </div>
 
                     <!-- Bhakti Yoga Evening -->
                     <div class="service-details__content-two" style="font-family: inherit;">
-                        <h4 class="service-details__title-one" style="color: #4e151b;">
+                        <h4 class="service-details__title-one mt-3" style="color: #4e151b;">
                             <i class="fas fa-music" style="color: #4e151b; margin-right: 6px;"></i> Manchester Gita Festival 2025 – Bhakti Yoga Evening
                         </h4>
                         <p class="service-details__text-3" style="text-align: justify;">

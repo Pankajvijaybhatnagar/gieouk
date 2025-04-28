@@ -4,7 +4,7 @@
 <!-- header -->
 <?php require_once('parts/header/header3.php'); ?>
 <?php
-$page_title = "20<sup>th</sup> June 2025 - Day 1";
+$page_title = "20<sup>th</sup> June 2025 - Opening Night ";
 require_once('parts/page-title.php');
 ?>
 <!-- Sliding Text Three Start -->

@@ -4,7 +4,7 @@
 <!-- header -->
 <?php require_once('parts/header/header3.php'); ?>
 <?php
-$page_title = " Sunday Morning Programme";
+$page_title = "20<sup>th</sup> June 2025 - Maha Yagna & Pravachan";
 require_once('parts/page-title.php');
 ?>
 <h1 style="text-align: center; margin:30px">ASSOCIATION WITH</h1>
@@ -39,7 +39,7 @@ require_once('parts/page-title.php');
             <div class="col-xl-8 col-lg-7">
                 <div class="service-details__left">
                     <div class="service-details__img-one">
-                        <img src="assets/images/services/service-details-img-1.jpg" alt="">
+                        <img src="assets/images/services/yagya.jpg" alt="">
                     </div>
                     <div class="service-details__content-one" style="font-family: inherit;">
                         <!-- <h4 class="service-details__title-one" style="color: #4e151b;">
