@@ -7,7 +7,7 @@
 $page_title = " Sunday Morning Programme";
 require_once('parts/page-title.php');
 ?>
-<h1 style="text-align: center; margin-top:15px">ASSOCIATION WITH</h1>
+<h1 style="text-align: center; margin:30px">ASSOCIATION WITH</h1>
 <section class="sliding-text-three">
     <div class="sliding-text-three__wrap">
         <ul class="sliding-text-three__list list-unstyled marquee_mode">
@@ -338,20 +338,7 @@ require_once('parts/page-title.php');
                 <div class="service-details__sidebar">
 
                     <!-- Festival Navigation Links -->
-                    <div class="service-details__service-list-box">
-                        <h4 class="service-details__sidebar-title"><i class="fas fa-list-ul"
-                                style="margin-right: 6px;"></i> Explore Festival Events</h4>
-                        <ul class="service-details__service-list list-unstyled">
-                            <li><a href="#">Opening Night<span class="fas fa-arrow-right"></span></a></li>
-                            <li><a href="#">Workshops & Seminars<span class="fas fa-arrow-right"></span></a></li>
-                            <li><a href="#">Cultural Performances<span class="fas fa-arrow-right"></span></a></li>
-                            <li class="active"><a href="#">Darshana Exhibition<span
-                                        class="fas fa-arrow-right"></span></a></li>
-                            <li><a href="#">Youth & Family Sessions<span class="fas fa-arrow-right"></span></a></li>
-                            <li><a href="#">Volunteer Opportunities<span class="fas fa-arrow-right"></span></a></li>
-                        </ul>
-                    </div>
-
+                    <?php include 'parts/festival-navigation.php'  ?>
                     <!-- Help Box -->
                     <div class="service-details__need-help">
                         <div class="service-details__need-help-icon">
