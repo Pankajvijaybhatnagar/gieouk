@@ -9,8 +9,7 @@
         </li>
         <li class="active"><a href="day-2-bhakti-yoga-evening">Bhakti Yoga evening (21st Evening)<span
                     class="fas fa-arrow-right"></span></a></li>
-        <li><a href="#">Youth & Family Sessions<span class="fas fa-arrow-right"></span></a></li>
-        <li><a href="#">Volunteer Opportunities<span class="fas fa-arrow-right"></span></a></li>
+        <li><a href="day-3">Maha Yagna & Pravachan(23rd June)<span class="fas fa-arrow-right"></span></a></li>
 
     </ul>
     <div class="service-details__need-help">
