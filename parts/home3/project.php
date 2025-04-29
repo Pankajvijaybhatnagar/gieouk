@@ -9,51 +9,223 @@
           </div>
           <h2 class="section-title__title">Moments from Manchester's Gita Festival Celebrations</h2>
         </div>
-        <!-- <div class="project-three__btn-box">
-          <a href="index.php" class="project-three__btn thm-btn">
-            View More<span class="icon-arrow-left"></span>
-          </a>
-        </div> -->
       </div>
-      <div class="row">
-        <!--Project Three Single Start-->
-        <div class="col-xl-4 col-lg-4 wow fadeInLeft" data-wow-delay="100ms">
-          <a href="day-1.php">
-          <div class="project-three__single">
-            <div class="project-three__img">
-              <img style="aspect-ratio: 410/299;" src="assets/images/backgrounds/11th.jpeg" alt="Gita Seminar">
-            </div>
-            <h3> Day 1: Opening Night & Yoga Through Culture & Science
-            </h3>
-          </div>
-          </a>
-        </div>
-        <div class="col-xl-4 col-lg-4 wow fadeInLeft" data-wow-delay="100ms">
-          <a href="day-2.php">
-          <div class="project-three__single">
-            <div class="project-three__img">
-              <img src="assets/images/backgrounds/img2.png" alt="Yoga in the Park">
-            </div>
-            <h3>  Day 2: Shobha Yatra & Bhakti Yoga Evening
-            </h3>
-          </div>
-          </a>
-        </div>
-        <div class="col-xl-4 col-lg-4 wow fadeInLeft" data-wow-delay="100ms">
-          <a href="day-3.php">
-          <div class="project-three__single">
-            <div class="project-three__img">
-            <img style="aspect-ratio: 410/299;" src="assets/images/backgrounds/img3.jpg" alt="Bhakti Evening">
-            </div>
-            <h3> Day 3: Sunday Morning Programme
-            </h3>
-          </div>
-          </a>
-        </div>
-        <!--Project Three Single End-->
 
+      <!-- Swiper Carousel Start -->
+      <div class="swiper project-three-swiper">
+        <div class="swiper-wrapper">
+
+          <!-- Slide 1 -->
+          <div class="swiper-slide">
+            <a href="day-1.php">
+              <div class="project-three__single">
+                <div class="project-three__img">
+                  <img src="assets/images/backgrounds/11th.jpeg" alt="Gita Seminar">
+                </div>
+                <h3>Opening Night (20th June)</h3>
+              </div>
+            </a>
+          </div>
+
+          <!-- Slide 2 -->
+          <div class="swiper-slide">
+            <a href="day-2.php">
+              <div class="project-three__single">
+                <div class="project-three__img">
+                  <img src="assets\images\backgrounds\img.jpg" alt="Yoga in the Park">
+                </div>
+                <h3>Yoga in the park (21st June Morning)</h3>
+              </div>
+            </a>
+          </div>
+          <div class="swiper-slide">
+            <a href="day-4.php">
+              <div class="project-three__single">
+                <div class="project-three__img">
+                  <img src="assets\images\backgrounds\logo-side.jpeg" alt="Cultural Performance">
+                </div>
+                <h3>Shobha Yatra (21st June Afternoon)</h3>
+              </div>
+            </a>
+          </div>
+          <div class="swiper-slide">
+            <a href="day-5.php">
+              <div class="project-three__single">
+                <div class="project-three__img">
+                  <img src="assets\images\backgrounds\pic.jpg" alt="Closing Ceremony">
+                </div>
+                <h3>Bhakti Yoga evening (21st Evening)</h3>
+              </div>
+            </a>
+          </div>
+
+          <!-- Slide 3 -->
+          <div class="swiper-slide">
+            <a href="day-3.php">
+              <div class="project-three__single">
+                <div class="project-three__img">
+                  <img src="assets/images/backgrounds/img3.jpg" alt="Bhakti Evening">
+                </div>
+                <h3>Maha Yagna & Pravachan(22rd June)</h3>
+              </div>
+            </a>
+          </div>
+
+          <!-- Slide 4 -->
+         
+
+          <!-- Slide 5 -->
+         
+
+        </div>
+
+        <!-- Navigation buttons -->
+        <div class="swiper-button-prev custom-arrow"></div>
+        <div class="swiper-button-next custom-arrow"></div>
       </div>
+      <!-- Swiper Carousel End -->
+
     </div>
   </div>
 </section>
 <!--Project Three End-->
+
+<!-- Swiper CSS -->
+<link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css" />
+
+<style>
+  .project-three {
+    padding: 60px 0;
+  }
+
+  .section-title__tagline {
+    font-size: 14px;
+    color: #888;
+  }
+
+  .section-title__title {
+    font-size: 28px;
+    font-weight: bold;
+  }
+
+  .project-three-swiper {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px 0;
+    position: relative;
+  }
+
+  .swiper-slide {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .project-three__single {
+    background-color: #f9f9f9;
+    border-radius: 10px;
+    overflow: hidden;
+    text-align: center;
+    padding: 15px;
+    width: 100%;
+    max-width: 350px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+  }
+
+  .project-three__single:hover {
+    transform: translateY(-5px);
+  }
+
+  .project-three__img img {
+    width: 100%;
+    height: auto;
+    aspect-ratio: 410 / 299;
+    object-fit: cover;
+    border-radius: 8px;
+  }
+
+  .project-three__single h3 {
+    margin-top: 15px;
+    font-size: 18px;
+    color: #333;
+  }
+
+  /* Custom arrow styles */
+  .custom-arrow {
+    position: absolute;
+    top: 50%;
+    z-index: 10;
+    width: 44px;
+    height: 44px;
+    background-color: #fff;
+    border-radius: 50%;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    transform: translateY(-50%);
+    cursor: pointer;
+  }
+
+  .swiper-button-prev.custom-arrow {
+    left: -60px;
+  }
+
+  .swiper-button-next.custom-arrow {
+    right: -60px;
+  }
+
+  .swiper-button-prev::after,
+  .swiper-button-next::after {
+    font-size: 20px;
+    color: #000;
+    font-weight: bold;
+  }
+
+  @media (max-width: 992px) {
+    .swiper-button-prev.custom-arrow {
+      left: -40px;
+    }
+
+    .swiper-button-next.custom-arrow {
+      right: -40px;
+    }
+  }
+
+  @media (max-width: 576px) {
+    .swiper-button-prev.custom-arrow,
+    .swiper-button-next.custom-arrow {
+      display: none;
+    }
+  }
+</style>
+
+<!-- Swiper JS -->
+<script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+
+<!-- Swiper Initialization -->
+<script>
+  const swiper = new Swiper('.project-three-swiper', {
+    loop: true,
+    slidesPerView: 3,
+    spaceBetween: 30,
+    speed: 700,
+    autoplay: {
+      delay: 3000,
+      disableOnInteraction: false,
+    },
+    navigation: {
+      nextEl: '.swiper-button-next',
+      prevEl: '.swiper-button-prev',
+    },
+    breakpoints: {
+      0: {
+        slidesPerView: 1
+      },
+      768: {
+        slidesPerView: 2
+      },
+      1024: {
+        slidesPerView: 3
+      }
+    }
+  });
+</script>
