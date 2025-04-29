@@ -4,7 +4,7 @@
 <!-- header -->
 <?php require_once('parts/header/header3.php'); ?>
 <?php
-$page_title = "20<sup>th</sup> June 2025 - Maha Yagna & Pravachan";
+$page_title = "22<sup>nd</sup> June 2025 - Maha Yagna & Pravachan";
 require_once('parts/page-title.php');
 ?>
 <h1 style="text-align: center; margin:30px">ASSOCIATION WITH</h1>
