@@ -18,7 +18,7 @@
             To help us manage capacity and ensure a smooth experience for everyone, registration is required for the Friday
             session of the Manchester Gita Festival.
             Tickets are free but must be booked in advance.
-            <a href="" class="btn btn-danger">👉 Click here to register</a>
+            <a target="_blank" href="https://rb.gy/9z7mpp" class="btn btn-danger">👉 Click here to register</a>
             <br>
             We look forward to welcoming you!
         </p>
