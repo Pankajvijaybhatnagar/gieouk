@@ -22,7 +22,7 @@ $slides = [
       'Entry: Free | No Booking Needed'
     ],
     'description' => '9:30 AM–12 PM: Community Yoga Session<br>12 PM–2:30 PM: Workshops on Pranayama (Ujjayi, Kapalbhati, Bhramari, Bhastrika), Surya Namaskar, Laughter Yoga, Hatha Yoga, Chair & Teen Yoga, Sound & Yin Yoga, and Meditation.',
-    'extras' => "Children's Yoga Zones | Bring water & mat | Transport: Buses, Trams, Limited Parking"
+    'extras' => "👩‍👧‍👦 Children's Yoga Zones | Bring water & mat | 🚌 Transport: Buses, Trams, Limited Parking"
   ],
   [
     'icon' => 'fas fa-person-praying',
@@ -34,7 +34,7 @@ $slides = [
       'Entry: Free | No Booking Needed'
     ],
     'description' => 'Join us for the spiritually uplifting Shobha Yatra — a procession for peace, love, and harmony, bringing together hearts, families, and communities in joyful celebration.',
-    'extras' => " Bring flags, instruments, and your joyous spirit!"
+    'extras' => " 🚩Bring flags, 🎻instruments, and your joyous spirit!"
   ],
   [
     'icon' => 'fas fa-person-praying',

@@ -64,6 +64,9 @@
                                     </div>
                                 </div>
                             </div> -->
+                            <div class="main-menu-three__logo">
+                                <a  href="index.php"><img style="height: 90px;" src="assets/images/backgrounds/logo-side.png" alt=""></a>
+                            </div>
                         </div>
                     </div>
                 </div>
