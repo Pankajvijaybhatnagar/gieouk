@@ -105,7 +105,7 @@ $testimonials = [
                         <div class="section-title__tagline-box">
                             <span class="section-title__tagline">Reviews</span>
                         </div>
-                        <h2 class="section-title__title">Spiritual wisdom that transforms lives – Gitaminishi Gyannand Ji Maharaj</h2>
+                        <h2 class="section-title__title">Spiritual wisdom that transforms lives – Gita Manishi Gyananand Ji Maharaj</h2>
                     </div>
                     <div class="testimonial-three__nav">
                         <div class="swiper-button-prev1">
