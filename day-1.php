@@ -41,7 +41,7 @@ require_once('parts/page-title.php');
             <div class="col-xl-8 col-lg-7">
                 <div class="service-details__left">
                     <div class="service-details__img-one">
-                        <img src="assets/images/services/service-details-img-1.jpg" alt="">
+                        <img src="assets/images/services/first-day.jpg" alt="">
                     </div>
                     <div class="service-details__content-one" style="font-family: inherit;">
                         <!-- <h4 class="service-details__title-one" style="color: #4e151b;">
