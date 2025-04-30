@@ -38,11 +38,11 @@
                                     Join us for a transformative journey into the heart of Yoga and the teachings of the Bhagvad Gita. Explore devotion, wisdom, and harmony over 3 days of immersive events across Manchester – 20th to 22nd June 2025.
                                 </p>
                                 <div class="main-slider-three__btn-and-video">
-                                    <div class="main-slider-three__btn-box">
+                                    <!-- <div class="main-slider-three__btn-box">
                                         <a href="about.php" class="main-slider-three__btn thm-btn">Read More<span class="icon-arrow-left"></span></a>
-                                    </div>
+                                    </div> -->
                                     <div class="main-slider-three__video-link">
-                                        <a href="https://www.youtube.com/watch?v=Get7rqXYrbQ" class="video-popup">
+                                        <a href="https://youtu.be/2QyYFXYHZkc" class="video-popup">
                                             <div class="main-slider-three__video-icon">
                                                 <span class="icon-play"></span>
                                                 <i class="ripple"></i>
@@ -76,11 +76,11 @@
                                     More than just poses—Yoga is a lifestyle of connection, purpose and clarity. Experience the four Yogic paths in action through music, movement, meditation, and meaningful discussions rooted in Gita wisdom.
                                 </p>
                                 <div class="main-slider-three__btn-and-video">
-                                    <div class="main-slider-three__btn-box">
+                                    <!-- <div class="main-slider-three__btn-box">
                                         <a href="about.php" class="main-slider-three__btn thm-btn">Read More<span class="icon-arrow-left"></span></a>
-                                    </div>
+                                    </div> -->
                                     <div class="main-slider-three__video-link">
-                                        <a href="https://www.youtube.com/watch?v=Get7rqXYrbQ" class="video-popup">
+                                        <a href="https://youtu.be/2QyYFXYHZkc" class="video-popup">
                                             <div class="main-slider-three__video-icon">
                                                 <span class="icon-play"></span>
                                                 <i class="ripple"></i>
