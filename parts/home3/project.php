@@ -28,7 +28,7 @@ $slides = [
         'link' => 'day-3',
         'img' => 'assets/images/backgrounds/pic.jpg',
         'alt' => 'Bhakti Evening',
-        'title' => 'Maha Yagna & Pravachan(22rd June)'
+        'title' => 'Maha Yagna & Pravachan(22nd June)'
     ]
 ];
 ?>
