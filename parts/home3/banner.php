@@ -42,7 +42,7 @@
                                         <a href="about.php" class="main-slider-three__btn thm-btn">Read More<span class="icon-arrow-left"></span></a>
                                     </div> -->
                                     <div class="main-slider-three__video-link">
-                                        <a href="https://youtu.be/2QyYFXYHZkc" class="video-popup">
+                                        <a href="https://www.youtube.com/watch?v=2QyYFXYHZkc" class="video-popup">
                                             <div class="main-slider-three__video-icon">
                                                 <span class="icon-play"></span>
                                                 <i class="ripple"></i>
@@ -80,7 +80,7 @@
                                         <a href="about.php" class="main-slider-three__btn thm-btn">Read More<span class="icon-arrow-left"></span></a>
                                     </div> -->
                                     <div class="main-slider-three__video-link">
-                                        <a href="https://youtu.be/2QyYFXYHZkc" class="video-popup">
+                                        <a href="https://www.youtube.com/watch?v=2QyYFXYHZkc" class="video-popup">
                                             <div class="main-slider-three__video-icon">
                                                 <span class="icon-play"></span>
                                                 <i class="ripple"></i>
