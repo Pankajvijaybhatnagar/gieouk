@@ -159,7 +159,7 @@ require_once('parts/page-title.php');
                                 </thead>
                                 <tbody>
                                     <tr>
-                                        <td><strong>10:20 AM</strong></td>
+                                        <!-- <td><strong>10:20 AM</strong></td> -->
                                         <td>Pranayama - Ujjayi - Kapalbhati - Bhramari - Nadi Shuddhi - Bhastrika</td>
                                     </tr>
                                     <tr>
@@ -194,44 +194,44 @@ require_once('parts/page-title.php');
                             <table class="table table-bordered">
                                 <thead>
                                     <tr>
-                                        <th>Time</th>
+                                        <!-- <th>Time</th> -->
                                         <th colspan="2">Workshops</th>
                                         
                                     </tr>
                                 </thead>
                                 <tbody>
                                     <tr>
-                                        <td><strong>10:20 AM</strong></td>
+                                        <!-- <td><strong>10:20 AM</strong></td> -->
                                         <td>Healthy Living and Nutrition</td>
                                         <td>Laughter Yoga</td>
                                     </tr>
                                     <tr>
-                                        <td><strong>10:50 AM</strong></td>
+                                        <!-- <td><strong>10:50 AM</strong></td> -->
                                         <td>Children's Yoga Zone under 8</td>
                                         <td>Yoga for Common health problems</td>
                                     </tr>
                                     <tr>
-                                        <td><strong>11:10 AM</strong></td>
+                                        <!-- <td><strong>11:10 AM</strong></td> -->
                                         <td>Children's Yoga Zone under 8 - 12</td>
                                         <td>Hatha Yoga</td>
                                     </tr>
                                     <tr>
-                                        <td><strong>11:30 AM</strong></td>
+                                        <!-- <td><strong>11:30 AM</strong></td> -->
                                         <td>Teen Yoga</td>
                                         <td>Chair Yoga</td>
                                     </tr>
                                     <tr>
-                                        <td><strong>11:40 AM</strong></td>
+                                        <!-- <td><strong>11:40 AM</strong></td> -->
                                         <td>Yoga for Menopause</td>
                                         <td>Vinyasa - Strength Yoga</td>
                                     </tr>
                                     <tr>
-                                        <td><strong>11:50 AM</strong></td>
+                                        <!-- <td><strong>11:50 AM</strong></td> -->
                                         <td>Sound and Yin Yoga</td>
                                         <td>Meditation</td>
                                     </tr>
                                     <tr>
-                                        <td><strong>12:00 PM+</strong></td>
+                                        <!-- <td><strong>12:00 PM+</strong></td> -->
                                         <td></td>
                                         <td>Yoga for Back Pain</td>
                                     </tr>
