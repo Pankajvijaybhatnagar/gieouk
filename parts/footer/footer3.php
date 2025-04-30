@@ -96,7 +96,7 @@
                 <p class="site-footer__bottom-text">© GIEO Gita 2025 | All Rights Reserved</p>
                 <ul class="list-unstyled site-footer__bottom-menu">
                     <li><a href="index.php">Terms & Conditions</a></li>
-                    <li><a href="privacypolicy.php">Privacy Policy</a></li>
+                    <li><a href="privacy-policy">Privacy Policy</a></li>
                     <li><a href="contact.php">Contact Us</a></li>
                 </ul>
             </div>

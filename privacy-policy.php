@@ -14,7 +14,7 @@ require_once('parts/page-title.php');
             <div class="col-xl-10 col-lg-12">
                 <div class="privacy-policy__content">
 
-                    <h2 class="mb-4">Privacy Policy for GIEO Gita UK</h2>
+                    <h2 class="my-4">Privacy Policy for GIEO Gita UK</h2>
 
                     <div class="policy-section mb-5">
                         <h4>Introduction</h4>
@@ -91,7 +91,7 @@ require_once('parts/page-title.php');
 
                     <div class="policy-section">
                         <h4>Website</h4>
-                        <p>For more information, please visit our website: <a href="https://www.gieogita.org.uk/" target="_blank">https://www.gieogita.org.uk/</a></p>
+                        <p class="mb-4">For more information, please visit our website: <a href="https://www.gieogita.org.uk/" target="_blank">https://www.gieogita.org.uk/</a></p>
                     </div>
 
                 </div>
