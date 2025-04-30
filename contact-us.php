@@ -14,7 +14,7 @@ require_once('parts/page-title.php');
                     <div class="section-title__tagline-box">
                         <span class="section-title__tagline">STAY CONNECTED </span>
                     </div>
-                    <h2 class="section-title__title">Request A Quote </h2>
+                    <h2 class="section-title__title">Enquiry Form </h2>
                 </div>
                 <div class="contact-two__inner">
                     <form class="contact-form-validated contact-two__form" action="assets/inc/sendemail.php"
