@@ -46,6 +46,6 @@
 		<a href="https://gieogita.org.uk/gallery">Gallery</a>
 	</li>
 	<li>
-		<a href="https://gieogita.org.uk/">Contact</a>
+		<a href="contact-us">Contact</a>
 	</li>
 </ul>
