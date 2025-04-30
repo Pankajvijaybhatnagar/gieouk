@@ -1,6 +1,6 @@
 <?php $head_title = "Privacy Policy || GIEO Gita UK"; ?>
 <?php require_once('parts/layout/top-layout.php'); ?>
-<?php require_once('parts/header/header4.php'); ?>
+<?php require_once('parts/header/header3.php'); ?>
 
 <?php
 $page_title = "Privacy Policy";

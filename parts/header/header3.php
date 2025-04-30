@@ -22,14 +22,7 @@
                                     </p>
                                 </div>
                             </li>
-                            <li>
-                                <div class="icon">
-                                    <i class="icon-location"></i>
-                                </div>
-                                <div class="text">
-                                    <p>uk</p>
-                                </div>
-                            </li>
+                           
                         </ul>
                         <div class="main-menu-three__top-right">
                             <div class="main-menu-three__social">
