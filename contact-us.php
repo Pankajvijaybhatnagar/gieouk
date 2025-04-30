@@ -14,7 +14,7 @@ require_once('parts/page-title.php');
                     <div class="section-title__tagline-box">
                         <span class="section-title__tagline">STAY CONNECTED </span>
                     </div>
-                    <h2 class="section-title__title">Request A Quote </h2>
+                    <h2 class="section-title__title">Enquiry Form </h2>
                 </div>
                 <div class="contact-two__inner">
                     <form class="contact-form-validated contact-two__form" action="assets/inc/sendemail.php"
@@ -35,7 +35,7 @@ require_once('parts/page-title.php');
                                     <input type="text" name="Phone" placeholder="Phone Number" required="">
                                 </div>
                             </div>
-                            <div class="col-xl-6 col-lg-6">
+                            <!-- <div class="col-xl-6 col-lg-6">
                                 <div class="contact-two__input-box">
                                     <div class="select-box">
                                         <select class="selectmenu wide">
@@ -48,13 +48,13 @@ require_once('parts/page-title.php');
                                         </select>
                                     </div>
                                 </div>
-                            </div>
+                            </div> -->
                             <div class="col-xl-12">
                                 <div class="contact-two__input-box text-message-box">
                                     <textarea name="message" placeholder="Message here.."></textarea>
                                 </div>
                                 <div class="contact-two__btn-box">
-                                    <button type="submit" class="thm-btn contact-two__btn">Appointment Now<span
+                                    <button type="submit" class="thm-btn contact-two__btn">Contact<span
                                             class="icon-paper-plan"></span></button>
                                 </div>
                             </div>
