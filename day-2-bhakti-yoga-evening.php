@@ -39,7 +39,7 @@ require_once('parts/page-title.php');
                 <div class="service-details__left">
 
                     <div class="service-details__img-one">
-                        <img src="assets/images/services/bkti-evening.jpg" alt="">
+                        <img src="assets/images/services/banner.jpg" alt="Manchester Gita Festival 2025 – Bhakti Yoga Evening">
                     </div>
 
                     <!-- Bhakti Yoga Evening -->
