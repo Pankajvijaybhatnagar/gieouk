@@ -1,4 +1,4 @@
-<?php $head_title= "Manchester Gita Festival 2025 – Day 2: Yoga in the Park & Workshops || GIEO Gita UK" 
+<?php $head_title = "Manchester Gita Festival 2025 – Day 2: Yoga in the Park & Workshops || GIEO Gita UK"
 ?>
 <?php require_once('parts/layout/top-layout.php'); ?>
 <!-- header -->
@@ -60,7 +60,7 @@ require_once('parts/page-title.php');
                         <p class="service-details__text-3" style="text-align: justify;">
                             Start your weekend with <strong>movement, mindfulness, and meaning</strong> as we celebrate <strong>International Day of Yoga</strong> with a vibrant morning of <strong>communal yoga and enriching workshops</strong> at <strong>Chorlton Park</strong>.
                         </p>
-                        
+
                         <p class="service-details__text-3" style="text-align: justify;">
                             Open to <strong>all ages and experience levels</strong>, this welcoming session brings together the local community to honour Yoga in its truest form — as a path to <strong>harmony, strength, and inner balance</strong>.
                         </p>
@@ -98,12 +98,12 @@ require_once('parts/page-title.php');
                         <p class="service-details__text-3" style="text-align: justify;">
                             <strong><i class="fas fa-subway" style="color: #4e151b; margin-right: 6px;"></i> By Tram:</strong><br>
                             The nearest Metrolink tram stops are:
-                            <ul style="padding-left: 20px; text-align: justify; list-style-type: disc;">
-                                <li><strong>St Werburgh's Road</strong> <em>(approx. 7–10 minutes' walk)</em></li>
-                                <li><strong>Chorlton</strong> <em>(approx. 10–15 minutes' walk via Wilbraham Road)</em></li>
-                                <li><strong>Barlow Moor Road</strong> <em>(approx. 7 minutes' walk via Nell Lane entrance)</em></li>
-                            </ul>
-                            These stops are on the <strong>Airport</strong> and <strong>East Didsbury lines</strong>, making travel from across Greater Manchester quick and convenient.
+                        <ul style="padding-left: 20px; text-align: justify; list-style-type: disc;">
+                            <li><strong>St Werburgh's Road</strong> <em>(approx. 7–10 minutes' walk)</em></li>
+                            <li><strong>Chorlton</strong> <em>(approx. 10–15 minutes' walk via Wilbraham Road)</em></li>
+                            <li><strong>Barlow Moor Road</strong> <em>(approx. 7 minutes' walk via Nell Lane entrance)</em></li>
+                        </ul>
+                        These stops are on the <strong>Airport</strong> and <strong>East Didsbury lines</strong>, making travel from across Greater Manchester quick and convenient.
                         </p>
 
                         <p class="service-details__text-3" style="text-align: justify;">
@@ -123,59 +123,121 @@ require_once('parts/page-title.php');
                         </p>
 
                         <div class="table-responsive">
+                            <style>
+                                table {
+                                    width: 100%;
+                                    border-collapse: collapse;
+                                    margin-bottom: 40px;
+                                    font-family: Arial, sans-serif;
+                                }
+
+                                th,
+                                td {
+                                    /* border: 1px solid #000; */
+                                    padding: 8px 12px;
+                                    text-align: left;
+                                    color: #4e151b;
+                                }
+
+                                thead {
+                                    background-color: #f3f3f3;
+                                }
+
+                                h2 {
+                                    margin-top: 30px;
+                                    font-family: Arial, sans-serif;
+                                }
+                            </style>
+
+                            <h2> <i class="fas fa-om" style="color: #4e151b; margin-right: 6px;"></i> Communal Yoga Stage from 10am<br></h2>
                             <table class="table table-bordered">
-                                <thead style="background-color: #f3f3f3;">
+                                <thead>
                                     <tr>
                                         <th>Time</th>
-                                        <th>Area 1</th>
-                                        <th>Area 2</th>
-                                        <th>Area 3</th>
+                                        <th>Communal Yoga Stage</th>
                                     </tr>
                                 </thead>
                                 <tbody>
                                     <tr>
                                         <td><strong>10:20 AM</strong></td>
                                         <td>Pranayama - Ujjayi - Kapalbhati - Bhramari - Nadi Shuddhi - Bhastrika</td>
-                                        <td>Healthy Living and Nutrition</td>
-                                        <td>Laughter Yoga</td>
                                     </tr>
                                     <tr>
                                         <td><strong>10:50 AM</strong></td>
                                         <td>Surya Namaskar</td>
-                                        <td>Children's Yoga Zone under 8</td>
-                                        <td>Yoga for Common health problems</td>
                                     </tr>
                                     <tr>
                                         <td><strong>11:10 AM</strong></td>
-                                        <td>Hatha Yoga</td>
-                                        <td>Children's Yoga Zone under 8 - 12</td>
                                         <td>Hatha Yoga</td>
                                     </tr>
                                     <tr>
                                         <td><strong>11:30 AM</strong></td>
                                         <td>Relaxation</td>
+                                    </tr>
+                                    <tr>
+                                        <td><strong>11:40 AM</strong></td>
+                                        <td>Meditation</td>
+                                    </tr>
+                                    <tr>
+                                        <td><strong>11:50 AM</strong></td>
+                                        <td>Mantra Chanting</td>
+                                    </tr>
+                                    <tr>
+                                        <td><strong>12:00 PM+</strong></td>
+                                        <td></td>
+                                    </tr>
+                                </tbody>
+                            </table>
+
+                            <h2><i class="fas fa-chalkboard-teacher" style="color: #4e151b; margin-right: 6px;"></i> Workshops from 12pm
+                            </h2>
+                            <table class="table table-bordered">
+                                <thead>
+                                    <tr>
+                                        <th>Time</th>
+                                        <th colspan="2">Workshops</th>
+                                        
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        <td><strong>10:20 AM</strong></td>
+                                        <td>Healthy Living and Nutrition</td>
+                                        <td>Laughter Yoga</td>
+                                    </tr>
+                                    <tr>
+                                        <td><strong>10:50 AM</strong></td>
+                                        <td>Children's Yoga Zone under 8</td>
+                                        <td>Yoga for Common health problems</td>
+                                    </tr>
+                                    <tr>
+                                        <td><strong>11:10 AM</strong></td>
+                                        <td>Children's Yoga Zone under 8 - 12</td>
+                                        <td>Hatha Yoga</td>
+                                    </tr>
+                                    <tr>
+                                        <td><strong>11:30 AM</strong></td>
                                         <td>Teen Yoga</td>
                                         <td>Chair Yoga</td>
                                     </tr>
                                     <tr>
                                         <td><strong>11:40 AM</strong></td>
-                                        <td>Meditation</td>
                                         <td>Yoga for Menopause</td>
                                         <td>Vinyasa - Strength Yoga</td>
                                     </tr>
                                     <tr>
                                         <td><strong>11:50 AM</strong></td>
-                                        <td>Mantra Chanting</td>
                                         <td>Sound and Yin Yoga</td>
                                         <td>Meditation</td>
                                     </tr>
                                     <tr>
                                         <td><strong>12:00 PM+</strong></td>
-                                        <td colspan="2"></td>
+                                        <td></td>
                                         <td>Yoga for Back Pain</td>
                                     </tr>
                                 </tbody>
                             </table>
+
                         </div>
                     </div>
 
@@ -193,7 +255,7 @@ require_once('parts/page-title.php');
                             </div>
                         </div>
                     </div>
-                    
+
                     <div class="service-details__service-process">
                         <h4 class="service-details__service-process-title">
                             <i class="fas fa-praying-hands" style="color: #2c3e50; margin-right: 6px;"></i> Yogic Paths Explored Through Workshops
@@ -259,7 +321,7 @@ require_once('parts/page-title.php');
                                     </div>
                                 </div>
                             </div>
-                            
+
                             <!-- Sliding Text Three Start -->
                             <h1 style="margin-top:30px; margin-left:540px">Partners</h1>
                             <section class="sliding-text-three">
@@ -288,7 +350,7 @@ require_once('parts/page-title.php');
                     </div>
                 </div>
             </div>
-            
+
             <div class="col-xl-4 col-lg-5">
                 <div class="service-details__sidebar">
 
