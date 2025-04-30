@@ -2,7 +2,7 @@
 $slides = [
     [
         'link' => 'day-1.php',
-        'img' => 'assets/images/resources/opening.png',
+        'img' => 'assets/images/services/first-day.jpg',
         'alt' => 'Gita Seminar',
         'title' => 'Opening Night (20th June)'
     ],
