@@ -69,7 +69,7 @@ require_once('parts/page-title.php');
         <!--Contact Three End-->
         <section class="contact-three">
             <div class="container">
-                <div class="row">
+                <div class="row d-flex justify-content-center">
                     <!--Contact Three Single Start-->
                     <!-- <div class="col-xl-4 col-lg-2">
                         <div class="contact-three__single">
