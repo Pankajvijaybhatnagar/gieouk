@@ -1,3 +1,39 @@
+<?php
+$slides = [
+    [
+        'link' => 'day-1.php',
+        'img' => 'assets/images/resources/opening.png',
+        'alt' => 'Gita Seminar',
+        'title' => 'Opening Night (20th June)'
+    ],
+    [
+        'link' => 'day-2-yoga-in-the-park',
+        'img' => 'assets\images\resources\day2yogapark.png',
+        'alt' => 'Yoga in the Park',
+        'title' => 'Yoga in the park (21st June Morning)'
+    ],
+    [
+        'link' => 'day-2-shobha-yatra',
+        'img' => 'assets/images/backgrounds/11th.jpeg',
+        'alt' => 'Cultural Performance',
+        'title' => 'Shobha Yatra (21st June Afternoon)'
+    ],
+    [
+        'link' => 'day-2-bhakti-yoga-evening',
+        'img' => 'assets/images/resources/bhaktiyoga.png',
+        'alt' => 'Closing Ceremony',
+        'title' => 'Bhakti Yoga evening (21st Evening)'
+    ],
+    [
+        'link' => 'day-3',
+        'img' => 'assets/images/backgrounds/pic.jpg',
+        'alt' => 'Bhakti Evening',
+        'title' => 'Maha Yagna & Pravachan(22rd June)'
+    ]
+];
+?>
+
+
 <!--Project Three Start-->
 <section class="project-three">
   <div class="container">
@@ -13,71 +49,23 @@
 
       <!-- Swiper Carousel Start -->
       <div class="swiper project-three-swiper">
-        <div class="swiper-wrapper">
 
-          <!-- Slide 1 -->
-          <div class="swiper-slide">
-            <a href="day-1.php">
-              <div class="project-three__single">
-                <div class="project-three__img">
-                  <img src="assets/images/backgrounds/11th.jpeg" alt="Gita Seminar">
+
+<div class="swiper-wrapper">
+    <?php foreach ($slides as $slide): ?>
+        <div class="swiper-slide">
+            <a href="<?= htmlspecialchars($slide['link']) ?>">
+                <div class="project-three__single">
+                    <div class="project-three__img">
+                        <img style="aspect-ratio: 16/9; object-fit: cover;" src="<?= htmlspecialchars($slide['img']) ?>" alt="<?= htmlspecialchars($slide['alt']) ?>">
+                    </div>
+                    <h3><?= htmlspecialchars($slide['title']) ?></h3>
                 </div>
-                <h3>Opening Night (20th June)</h3>
-              </div>
             </a>
-          </div>
-
-          <!-- Slide 2 -->
-          <div class="swiper-slide">
-            <a href="day-2.php">
-              <div class="project-three__single">
-                <div class="project-three__img">
-                  <img src="assets\images\backgrounds\img.jpg" alt="Yoga in the Park">
-                </div>
-                <h3>Yoga in the park (21st June Morning)</h3>
-              </div>
-            </a>
-          </div>
-          <div class="swiper-slide">
-            <a href="day-4.php">
-              <div class="project-three__single">
-                <div class="project-three__img">
-                  <img src="assets\images\backgrounds\logo-side.jpeg" alt="Cultural Performance">
-                </div>
-                <h3>Shobha Yatra (21st June Afternoon)</h3>
-              </div>
-            </a>
-          </div>
-          <div class="swiper-slide">
-            <a href="day-5.php">
-              <div class="project-three__single">
-                <div class="project-three__img">
-                  <img src="assets\images\backgrounds\pic.jpg" alt="Closing Ceremony">
-                </div>
-                <h3>Bhakti Yoga evening (21st Evening)</h3>
-              </div>
-            </a>
-          </div>
-
-          <!-- Slide 3 -->
-          <div class="swiper-slide">
-            <a href="day-3.php">
-              <div class="project-three__single">
-                <div class="project-three__img">
-                  <img src="assets/images/backgrounds/img3.jpg" alt="Bhakti Evening">
-                </div>
-                <h3>Maha Yagna & Pravachan(22rd June)</h3>
-              </div>
-            </a>
-          </div>
-
-          <!-- Slide 4 -->
-         
-
-          <!-- Slide 5 -->
-         
-
         </div>
+    <?php endforeach; ?>
+</div>
+
 
         <!-- Navigation buttons -->
         <div class="swiper-button-prev custom-arrow"></div>
@@ -92,7 +80,7 @@
 
 <!-- Swiper CSS -->
 <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css" />
-
+<!-- 
 <style>
   .project-three {
     padding: 60px 0;
@@ -196,7 +184,7 @@
       display: none;
     }
   }
-</style>
+</style> -->
 
 <!-- Swiper JS -->
 <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
