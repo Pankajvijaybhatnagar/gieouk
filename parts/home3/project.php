@@ -1,7 +1,7 @@
 <?php
 $slides = [
     [
-        'link' => 'day-1.php',
+        'link' => 'day-1',
         'img' => 'assets/images/services/first-day.jpg',
         'alt' => 'Gita Seminar',
         'title' => 'Opening Night (20th June)'
