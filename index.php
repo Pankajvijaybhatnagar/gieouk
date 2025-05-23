@@ -14,7 +14,7 @@
 
 
 <?php  
-require_once('parts/home3/whychoose.php'); 
+// require_once('parts/home3/whychoose.php'); 
 ?>
 <?php require_once('parts/home3/slidingtext.php'); ?>
 

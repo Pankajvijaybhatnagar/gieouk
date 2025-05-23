@@ -42,6 +42,9 @@
                             <div class="main-menu-three__logo">
                                 <a href="index.php"><img style="width: 90px;" src="assets/images/backgrounds/Logo.png" alt=""></a>
                             </div>
+                             <div class="main-menu-three__logo">
+                                <a href="index.php"><img style="width: 90px;" src="assets/images/backgrounds/logo-side.png" alt=""></a>
+                            </div>
                             <div class="main-menu-three__left">
                                 <div class="main-menu-three__main-menu-box">
                                     <a href="#" class="mobile-nav__toggler"><i class="fa fa-bars"></i></a>
@@ -58,7 +61,7 @@
                                 </div>
                             </div> -->
                             <div class="main-menu-three__logo">
-                                <a  href="index.php"><img style="height: 90px;" src="assets/images/backgrounds/logo-side.png" alt=""></a>
+                                <a  href="index.php"><img style="height: 90px;" src="assets/images/backgrounds/0c3e33e6-ae37-4a6f-8518-ec59a798c5ac.jpeg" alt=""></a>
                             </div>
                         </div>
                     </div>
