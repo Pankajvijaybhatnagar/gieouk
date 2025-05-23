@@ -19,7 +19,7 @@
 	<li class="dropdown">
 		<a href="#">Education</a>
 		<ul>
-			<li><a href="https://gieogita.org.uk/bhagwat-gita-course">An Introduction to Bhagwat Gita</a></li>
+			<li><a href="https://gieogita.org.uk/bhagwat-gita-course">An Introduction to Bhagwad Gita</a></li>
 		</ul>
 	</li>
 
