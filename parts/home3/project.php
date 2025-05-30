@@ -43,7 +43,7 @@ $slides = [
           <div class="section-title__tagline-box">
             <span class="section-title__tagline">Events</span>
           </div>
-          <h2 class="section-title__title">Moments from Manchester's Gita Festival Celebrations</h2>
+          <h2 class="section-title__title"> Manchester's Gita Festival Celebrations</h2>
         </div>
       </div>
 
