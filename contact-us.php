@@ -1,4 +1,4 @@
-<?php $head_title="Contact || topfool || topfool PHP Template"?>
+<?php $head_title="Manchester Gita Festival"?>
 <?php require_once('parts/layout/top-layout.php'); ?>
 <!-- header -->
 <?php require_once('parts/header/header3.php'); ?>
