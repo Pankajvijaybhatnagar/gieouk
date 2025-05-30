@@ -1,6 +1,6 @@
 <ul class="main-menu__list">
 	<li>
-		<a href="https://gieogita.org.uk/">Home</a>
+		<a href="/">Home</a>
 	</li>
 	<li>
 		<a href="https://gieogita.org.uk/">About</a>
