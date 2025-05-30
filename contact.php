@@ -146,5 +146,5 @@ require_once('parts/page-title.php');
         </section>
         <!--CTA Two End-->
 
-        <?php require_once('parts/footer/footer4.php'); ?>
+        <?php require_once('parts/footer/footer3.php'); ?>
         <?php require_once('parts/layout/bottom-layout.php'); ?> 
