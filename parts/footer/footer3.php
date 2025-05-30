@@ -97,7 +97,7 @@
                 <ul class="list-unstyled site-footer__bottom-menu">
                     <li><a href="index.php">Terms & Conditions</a></li>
                     <li><a href="privacy-policy">Privacy Policy</a></li>
-                    <li><a href="contact.php">Contact Us</a></li>
+                    <li><a href="contact-us">Contact Us</a></li>
                 </ul>
             </div>
         </div>
