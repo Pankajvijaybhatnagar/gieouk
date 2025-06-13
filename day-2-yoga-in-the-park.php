@@ -47,7 +47,17 @@ require_once('parts/page-title.php');
                             Festival 2025 – Day 2
                         </h4>
                         <p class="service-details__text-3" style="text-align: justify;">
-                            <strong><i class="fas fa-dove" style="color: #4e151b; margin-right: 6px;"></i> Yoga in the Park & Workshops</strong><br><br>
+    <strong><i class="fas fa-dove" style="color: #4e151b; margin-right: 6px;"></i> Yoga in the Park & Workshops</strong>
+   <button onclick="window.open('abc.pdf', '_blank')" 
+        style="background-color: #4e151b; color: white; padding: 10px 20px; border: none; margin-left: 156px; border-radius: 10px; cursor: pointer;">
+    Important Information
+</button>
+<br><br>
+   
+    <!-- Additional description text can go here if needed -->
+</p>
+
+
 
                             <i class="fas fa-calendar-alt" style="color: #4e151b; margin-right: 6px;"></i>
                             <strong>Date:</strong> Saturday 21st June 2025<br>
@@ -108,7 +118,7 @@ require_once('parts/page-title.php');
 
                         <p class="service-details__text-3" style="text-align: justify;">
                             <strong><i class="fas fa-parking" style="color: #4e151b; margin-right: 6px;"></i> By Car:</strong><br>
-                            Limited <strong>on-site parking</strong> is available via the <strong>Nell Lane entrance</strong>, with additional free parking on <strong>surrounding residential streets</strong> (please park considerately). We recommend arriving early to secure a space. We are also working to secure additional parking at nearby locations and this will be updated once confirmed.
+                            Limited <strong>on-site parking</strong> is available via the <strong>Nell Lane entrance</strong>, with additional free parking on <strong>surrounding residential streets</strong> (please park considerately). We recommend arriving early to secure a space. There is also parking available at Chorlton High School on Nell Lane - please note this car park closes at 4pm.
                         </p>
 
                         <hr style="border-top: 1px solid #ccc;">
@@ -121,7 +131,7 @@ require_once('parts/page-title.php');
                             <i class="fas fa-om" style="color: #4e151b; margin-right: 6px;"></i> Communal Yoga Stage from 10am<br>
                             <i class="fas fa-chalkboard-teacher" style="color: #4e151b; margin-right: 6px;"></i> Workshops from 12pm
                         </p>
-
+ 
                         <div class="table-responsive">
                             <style>
                                 table {
@@ -150,44 +160,24 @@ require_once('parts/page-title.php');
                             </style>
 
                             <h2> <i class="fas fa-om" style="color: #4e151b; margin-right: 6px;"></i> Communal Yoga Stage from 10am<br></h2>
-                            <table class="table table-bordered">
-                                <thead>
-                                    <tr>
-                                        <th>Time</th>
-                                        <th>Communal Yoga Stage</th>
-                                    </tr>
-                                </thead>
-                                <tbody>
-                                    <tr>
-                                        <!-- <td><strong>10:20 AM</strong></td> -->
-                                        <td>Pranayama - Ujjayi - Kapalbhati - Bhramari - Nadi Shuddhi - Bhastrika</td>
-                                    </tr>
-                                    <tr>
-                                        <td><strong>10:50 AM</strong></td>
-                                        <td>Surya Namaskar</td>
-                                    </tr>
-                                    <tr>
-                                        <td><strong>11:10 AM</strong></td>
-                                        <td>Hatha Yoga</td>
-                                    </tr>
-                                    <tr>
-                                        <td><strong>11:30 AM</strong></td>
-                                        <td>Relaxation</td>
-                                    </tr>
-                                    <tr>
-                                        <td><strong>11:40 AM</strong></td>
-                                        <td>Meditation</td>
-                                    </tr>
-                                    <tr>
-                                        <td><strong>11:50 AM</strong></td>
-                                        <td>Mantra Chanting</td>
-                                    </tr>
-                                    <tr>
-                                        <td><strong>12:00 PM+</strong></td>
-                                        <td></td>
-                                    </tr>
-                                </tbody>
-                            </table>
+                           <div>
+    <h2>9:30 AM – 12:00 PM – Communal Yoga Session</h2>
+    <p>
+        Led by expert instructors and based on the Common Yoga Protocol issued by the Ministry of AYUSH, this inclusive session incorporates:
+    </p>
+    <ul>
+        <li>Breathing techniques (Ujjayi, Kapalbhati, Bhramari, Nadi Shuddhi, Bhastrika)</li>
+        <li>Asanas (SuryaNamaskar, Hatha Yoga postures)</li>
+        <li>Relaxation, meditation, and mantra chanting</li>
+    </ul>
+
+    <p>
+        For workshops please download <strong>QCrash</strong> via Google Play Store or iOS.
+        Search for <strong>Manchester Gita Festival</strong> and add each of the Zones.
+        Navigate to <strong>June 21st</strong> on the calendar to book onto your intended Workshops for the day.
+    </p>
+</div>
+
 
                             <h2><i class="fas fa-chalkboard-teacher" style="color: #4e151b; margin-right: 6px;"></i> Workshops from 12pm
                             </h2>
@@ -232,13 +222,14 @@ require_once('parts/page-title.php');
                                     </tr>
                                     <tr>
                                         <!-- <td><strong>12:00 PM+</strong></td> -->
-                                        <td></td>
+                                        <td>Yoga for Pre and Post Natal</td>
                                         <td>Yoga for Back Pain</td>
                                     </tr>
                                 </tbody>
                             </table>
 
-                        </div>
+                        </div> 
+                        
                     </div>
 
                     <div class="service-details__img-boxes">
